@@ -1,7 +1,6 @@
 D:\ProjectTest\AssistantHeadman\AssistantHeadman\AssistantHeadman\obj\Debug\netstandard2.0\AssistantHeadman.csproj.AssemblyReference.cache
 D:\ProjectTest\AssistantHeadman\AssistantHeadman\AssistantHeadman\obj\Debug\netstandard2.0\AssistantHeadman.GeneratedMSBuildEditorConfig.editorconfig
 D:\ProjectTest\AssistantHeadman\AssistantHeadman\AssistantHeadman\obj\Debug\netstandard2.0\App.xaml.g.cs
-D:\ProjectTest\AssistantHeadman\AssistantHeadman\AssistantHeadman\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
 D:\ProjectTest\AssistantHeadman\AssistantHeadman\AssistantHeadman\obj\Debug\netstandard2.0\AssistantHeadman.AssemblyInfoInputs.cache
 D:\ProjectTest\AssistantHeadman\AssistantHeadman\AssistantHeadman\obj\Debug\netstandard2.0\AssistantHeadman.AssemblyInfo.cs
 D:\ProjectTest\AssistantHeadman\AssistantHeadman\AssistantHeadman\obj\Debug\netstandard2.0\AssistantHeadman.csproj.CoreCompileInputs.cache
@@ -9,8 +8,10 @@ D:\ProjectTest\AssistantHeadman\AssistantHeadman\AssistantHeadman\bin\Debug\nets
 D:\ProjectTest\AssistantHeadman\AssistantHeadman\AssistantHeadman\bin\Debug\netstandard2.0\AssistantHeadman.dll
 D:\ProjectTest\AssistantHeadman\AssistantHeadman\AssistantHeadman\bin\Debug\netstandard2.0\ref\AssistantHeadman.dll
 D:\ProjectTest\AssistantHeadman\AssistantHeadman\AssistantHeadman\bin\Debug\netstandard2.0\AssistantHeadman.pdb
-D:\ProjectTest\AssistantHeadman\AssistantHeadman\AssistantHeadman\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
 D:\ProjectTest\AssistantHeadman\AssistantHeadman\AssistantHeadman\obj\Debug\netstandard2.0\XamlC.stamp
 D:\ProjectTest\AssistantHeadman\AssistantHeadman\AssistantHeadman\obj\Debug\netstandard2.0\AssistantHeadman.dll
 D:\ProjectTest\AssistantHeadman\AssistantHeadman\AssistantHeadman\obj\Debug\netstandard2.0\refint\AssistantHeadman.dll
 D:\ProjectTest\AssistantHeadman\AssistantHeadman\AssistantHeadman\obj\Debug\netstandard2.0\AssistantHeadman.pdb
+D:\ProjectTest\AssistantHeadman\AssistantHeadman\AssistantHeadman\obj\Debug\netstandard2.0\AssistantHeadman.sourcelink.json
+D:\ProjectTest\AssistantHeadman\AssistantHeadman\AssistantHeadman\obj\Debug\netstandard2.0\View\LoginPage.xaml.g.cs
+D:\ProjectTest\AssistantHeadman\AssistantHeadman\AssistantHeadman\obj\Debug\netstandard2.0\View\MainPage.xaml.g.cs

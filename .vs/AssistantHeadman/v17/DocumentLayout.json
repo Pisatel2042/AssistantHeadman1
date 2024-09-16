@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProjectTest\\AssistantHeadman\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D194F80-A048-4951-9B65-AA8EAC5D8C08}|AssistantHeadman\\AssistantHeadman\\AssistantHeadman.csproj|d:\\projecttest\\assistantheadman\\assistantheadman\\assistantheadman\\model\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D194F80-A048-4951-9B65-AA8EAC5D8C08}|AssistantHeadman\\AssistantHeadman\\AssistantHeadman.csproj|solutionrelative:assistantheadman\\assistantheadman\\model\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D194F80-A048-4951-9B65-AA8EAC5D8C08}|AssistantHeadman\\AssistantHeadman\\AssistantHeadman.csproj|d:\\projecttest\\assistantheadman\\assistantheadman\\assistantheadman\\view\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D194F80-A048-4951-9B65-AA8EAC5D8C08}|AssistantHeadman\\AssistantHeadman\\AssistantHeadman.csproj|solutionrelative:assistantheadman\\assistantheadman\\view\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D194F80-A048-4951-9B65-AA8EAC5D8C08}|AssistantHeadman\\AssistantHeadman\\AssistantHeadman.csproj|d:\\projecttest\\assistantheadman\\assistantheadman\\assistantheadman\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D194F80-A048-4951-9B65-AA8EAC5D8C08}|AssistantHeadman\\AssistantHeadman\\AssistantHeadman.csproj|solutionrelative:assistantheadman\\assistantheadman\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D194F80-A048-4951-9B65-AA8EAC5D8C08}|AssistantHeadman\\AssistantHeadman\\AssistantHeadman.csproj|d:\\projecttest\\assistantheadman\\assistantheadman\\assistantheadman\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D194F80-A048-4951-9B65-AA8EAC5D8C08}|AssistantHeadman\\AssistantHeadman\\AssistantHeadman.csproj|solutionrelative:assistantheadman\\assistantheadman\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D194F80-A048-4951-9B65-AA8EAC5D8C08}|AssistantHeadman\\AssistantHeadman\\AssistantHeadman.csproj|d:\\projecttest\\assistantheadman\\assistantheadman\\assistantheadman\\view\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{8D194F80-A048-4951-9B65-AA8EAC5D8C08}|AssistantHeadman\\AssistantHeadman\\AssistantHeadman.csproj|solutionrelative:assistantheadman\\assistantheadman\\view\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAAC9D4-6DDC-443B-913E-E8A0933D9C01}|AssistantHeadman\\AssistantHeadman.Android\\AssistantHeadman.Android.csproj|D:\\ProjectTest\\AssistantHeadman\\assistantheadman\\assistantheadman.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FAAC9D4-6DDC-443B-913E-E8A0933D9C01}|AssistantHeadman\\AssistantHeadman.Android\\AssistantHeadman.Android.csproj|solutionrelative:assistantheadman\\assistantheadman.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D194F80-A048-4951-9B65-AA8EAC5D8C08}|AssistantHeadman\\AssistantHeadman\\AssistantHeadman.csproj|d:\\projecttest\\assistantheadman\\assistantheadman\\assistantheadman\\view\\loginpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{8D194F80-A048-4951-9B65-AA8EAC5D8C08}|AssistantHeadman\\AssistantHeadman\\AssistantHeadman.csproj|solutionrelative:assistantheadman\\assistantheadman\\view\\loginpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D194F80-A048-4951-9B65-AA8EAC5D8C08}|AssistantHeadman\\AssistantHeadman\\AssistantHeadman.csproj|d:\\projecttest\\assistantheadman\\assistantheadman\\assistantheadman\\view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D194F80-A048-4951-9B65-AA8EAC5D8C08}|AssistantHeadman\\AssistantHeadman\\AssistantHeadman.csproj|solutionrelative:assistantheadman\\assistantheadman\\view\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAAC9D4-6DDC-443B-913E-E8A0933D9C01}|AssistantHeadman\\AssistantHeadman.Android\\AssistantHeadman.Android.csproj|D:\\ProjectTest\\AssistantHeadman\\assistantheadman\\assistantheadman.android\\resources\\resource.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FAAC9D4-6DDC-443B-913E-E8A0933D9C01}|AssistantHeadman\\AssistantHeadman.Android\\AssistantHeadman.Android.csproj|solutionrelative:assistantheadman\\assistantheadman.android\\resources\\resource.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D194F80-A048-4951-9B65-AA8EAC5D8C08}|AssistantHeadman\\AssistantHeadman\\AssistantHeadman.csproj|d:\\projecttest\\assistantheadman\\assistantheadman\\assistantheadman\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{8D194F80-A048-4951-9B65-AA8EAC5D8C08}|AssistantHeadman\\AssistantHeadman\\AssistantHeadman.csproj|solutionrelative:assistantheadman\\assistantheadman\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D194F80-A048-4951-9B65-AA8EAC5D8C08}|AssistantHeadman\\AssistantHeadman\\AssistantHeadman.csproj|d:\\projecttest\\assistantheadman\\assistantheadman\\assistantheadman\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D194F80-A048-4951-9B65-AA8EAC5D8C08}|AssistantHeadman\\AssistantHeadman\\AssistantHeadman.csproj|solutionrelative:assistantheadman\\assistantheadman\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAAC9D4-6DDC-443B-913E-E8A0933D9C01}|AssistantHeadman\\AssistantHeadman.Android\\AssistantHeadman.Android.csproj|D:\\ProjectTest\\AssistantHeadman\\assistantheadman\\assistantheadman.android\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FAAC9D4-6DDC-443B-913E-E8A0933D9C01}|AssistantHeadman\\AssistantHeadman.Android\\AssistantHeadman.Android.csproj|solutionrelative:assistantheadman\\assistantheadman.android\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D194F80-A048-4951-9B65-AA8EAC5D8C08}|AssistantHeadman\\AssistantHeadman\\AssistantHeadman.csproj|d:\\projecttest\\assistantheadman\\assistantheadman\\assistantheadman\\assistantheadman.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D194F80-A048-4951-9B65-AA8EAC5D8C08}|AssistantHeadman\\AssistantHeadman\\AssistantHeadman.csproj|solutionrelative:assistantheadman\\assistantheadman\\assistantheadman.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAAC9D4-6DDC-443B-913E-E8A0933D9C01}|AssistantHeadman\\AssistantHeadman.Android\\AssistantHeadman.Android.csproj|D:\\ProjectTest\\AssistantHeadman\\assistantheadman\\assistantheadman.android\\properties\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{2FAAC9D4-6DDC-443B-913E-E8A0933D9C01}|AssistantHeadman\\AssistantHeadman.Android\\AssistantHeadman.Android.csproj|solutionrelative:assistantheadman\\assistantheadman.android\\properties\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FAAC9D4-6DDC-443B-913E-E8A0933D9C01}|AssistantHeadman\\AssistantHeadman.Android\\AssistantHeadman.Android.csproj|D:\\ProjectTest\\AssistantHeadman\\assistantheadman\\assistantheadman.android\\assets\\aboutassets.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2FAAC9D4-6DDC-443B-913E-E8A0933D9C01}|AssistantHeadman\\AssistantHeadman.Android\\AssistantHeadman.Android.csproj|solutionrelative:assistantheadman\\assistantheadman.android\\assets\\aboutassets.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "D:\\ProjectTest\\AssistantHeadman\\AssistantHeadman\\AssistantHeadman\\Model\\DBContext.cs",
+              "RelativeDocumentMoniker": "AssistantHeadman\\AssistantHeadman\\Model\\DBContext.cs",
+              "ToolTip": "D:\\ProjectTest\\AssistantHeadman\\AssistantHeadman\\AssistantHeadman\\Model\\DBContext.cs",
+              "RelativeToolTip": "AssistantHeadman\\AssistantHeadman\\Model\\DBContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T19:00:52.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\ProjectTest\\AssistantHeadman\\AssistantHeadman\\AssistantHeadman\\Model\\User.cs",
+              "RelativeDocumentMoniker": "AssistantHeadman\\AssistantHeadman\\Model\\User.cs",
+              "ToolTip": "D:\\ProjectTest\\AssistantHeadman\\AssistantHeadman\\AssistantHeadman\\Model\\User.cs",
+              "RelativeToolTip": "AssistantHeadman\\AssistantHeadman\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T18:31:20.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "D:\\ProjectTest\\AssistantHeadman\\AssistantHeadman\\AssistantHeadman\\View\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "AssistantHeadman\\AssistantHeadman\\View\\LoginPage.xaml.cs",
+              "ToolTip": "D:\\ProjectTest\\AssistantHeadman\\AssistantHeadman\\AssistantHeadman\\View\\LoginPage.xaml.cs",
+              "RelativeToolTip": "AssistantHeadman\\AssistantHeadman\\View\\LoginPage.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:54:35.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\ProjectTest\\AssistantHeadman\\AssistantHeadman\\AssistantHeadman\\App.xaml.cs",
+              "RelativeDocumentMoniker": "AssistantHeadman\\AssistantHeadman\\App.xaml.cs",
+              "ToolTip": "D:\\ProjectTest\\AssistantHeadman\\AssistantHeadman\\AssistantHeadman\\App.xaml.cs",
+              "RelativeToolTip": "AssistantHeadman\\AssistantHeadman\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T16:03:30.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\ProjectTest\\AssistantHeadman\\AssistantHeadman\\AssistantHeadman\\View\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "AssistantHeadman\\AssistantHeadman\\View\\MainPage.xaml.cs",
+              "ToolTip": "D:\\ProjectTest\\AssistantHeadman\\AssistantHeadman\\AssistantHeadman\\View\\MainPage.xaml.cs",
+              "RelativeToolTip": "AssistantHeadman\\AssistantHeadman\\View\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T16:03:55.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\ProjectTest\\AssistantHeadman\\AssistantHeadman\\AssistantHeadman\\App.xaml",
+              "RelativeDocumentMoniker": "AssistantHeadman\\AssistantHeadman\\App.xaml",
+              "ToolTip": "D:\\ProjectTest\\AssistantHeadman\\AssistantHeadman\\AssistantHeadman\\App.xaml",
+              "RelativeToolTip": "AssistantHeadman\\AssistantHeadman\\App.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-12T18:14:45.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\ProjectTest\\AssistantHeadman\\AssistantHeadman\\AssistantHeadman\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssistantHeadman\\AssistantHeadman\\AssemblyInfo.cs",
+              "ToolTip": "D:\\ProjectTest\\AssistantHeadman\\AssistantHeadman\\AssistantHeadman\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssistantHeadman\\AssistantHeadman\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T16:03:07.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "D:\\ProjectTest\\AssistantHeadman\\AssistantHeadman\\AssistantHeadman.Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "AssistantHeadman\\AssistantHeadman.Android\\MainActivity.cs",
+              "ToolTip": "D:\\ProjectTest\\AssistantHeadman\\AssistantHeadman\\AssistantHeadman.Android\\MainActivity.cs",
+              "RelativeToolTip": "AssistantHeadman\\AssistantHeadman.Android\\MainActivity.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T16:03:15.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\ProjectTest\\AssistantHeadman\\AssistantHeadman\\AssistantHeadman\\View\\MainPage.xaml",
+              "RelativeDocumentMoniker": "AssistantHeadman\\AssistantHeadman\\View\\MainPage.xaml",
+              "ToolTip": "D:\\ProjectTest\\AssistantHeadman\\AssistantHeadman\\AssistantHeadman\\View\\MainPage.xaml",
+              "RelativeToolTip": "AssistantHeadman\\AssistantHeadman\\View\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-12T16:03:51.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Resource.designer.cs",
+              "DocumentMoniker": "D:\\ProjectTest\\AssistantHeadman\\AssistantHeadman\\AssistantHeadman.Android\\Resources\\Resource.designer.cs",
+              "RelativeDocumentMoniker": "AssistantHeadman\\AssistantHeadman.Android\\Resources\\Resource.designer.cs",
+              "ToolTip": "D:\\ProjectTest\\AssistantHeadman\\AssistantHeadman\\AssistantHeadman.Android\\Resources\\Resource.designer.cs",
+              "RelativeToolTip": "AssistantHeadman\\AssistantHeadman.Android\\Resources\\Resource.designer.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAAAIEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:47:44.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "D:\\ProjectTest\\AssistantHeadman\\AssistantHeadman\\AssistantHeadman\\View\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "AssistantHeadman\\AssistantHeadman\\View\\LoginPage.xaml",
+              "ToolTip": "D:\\ProjectTest\\AssistantHeadman\\AssistantHeadman\\AssistantHeadman\\View\\LoginPage.xaml",
+              "RelativeToolTip": "AssistantHeadman\\AssistantHeadman\\View\\LoginPage.xaml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-13T16:53:08.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\ProjectTest\\AssistantHeadman\\AssistantHeadman\\AssistantHeadman.Android\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssistantHeadman\\AssistantHeadman.Android\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\ProjectTest\\AssistantHeadman\\AssistantHeadman\\AssistantHeadman.Android\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssistantHeadman\\AssistantHeadman.Android\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T16:29:26.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "D:\\ProjectTest\\AssistantHeadman\\AssistantHeadman\\AssistantHeadman.Android\\Properties\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "AssistantHeadman\\AssistantHeadman.Android\\Properties\\AndroidManifest.xml",
+              "ToolTip": "D:\\ProjectTest\\AssistantHeadman\\AssistantHeadman\\AssistantHeadman.Android\\Properties\\AndroidManifest.xml",
+              "RelativeToolTip": "AssistantHeadman\\AssistantHeadman.Android\\Properties\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-09-13T16:29:35.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AssistantHeadman.csproj",
+              "DocumentMoniker": "D:\\ProjectTest\\AssistantHeadman\\AssistantHeadman\\AssistantHeadman\\AssistantHeadman.csproj",
+              "RelativeDocumentMoniker": "AssistantHeadman\\AssistantHeadman\\AssistantHeadman.csproj",
+              "ToolTip": "D:\\ProjectTest\\AssistantHeadman\\AssistantHeadman\\AssistantHeadman\\AssistantHeadman.csproj",
+              "RelativeToolTip": "AssistantHeadman\\AssistantHeadman\\AssistantHeadman.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-13T16:29:53.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AboutAssets.txt",
+              "DocumentMoniker": "D:\\ProjectTest\\AssistantHeadman\\AssistantHeadman\\AssistantHeadman.Android\\Assets\\AboutAssets.txt",
+              "RelativeDocumentMoniker": "AssistantHeadman\\AssistantHeadman.Android\\Assets\\AboutAssets.txt",
+              "ToolTip": "D:\\ProjectTest\\AssistantHeadman\\AssistantHeadman\\AssistantHeadman.Android\\Assets\\AboutAssets.txt",
+              "RelativeToolTip": "AssistantHeadman\\AssistantHeadman.Android\\Assets\\AboutAssets.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-12T18:15:00.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
